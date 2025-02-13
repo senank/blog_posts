@@ -1,0 +1,4 @@
+baseURL: https://senank.github.io/blog_posts/
+languageCode: en-us
+title: My New Hugo Site
+theme: ["PaperMod"]
