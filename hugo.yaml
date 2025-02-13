@@ -1,4 +1,11 @@
 baseURL: https://senank.github.io/blog_posts/
 languageCode: en-us
-title: My New Hugo Site
+title: Senan Kassem's Paper Review
 theme: ["PaperMod"]
+
+taxonomies:
+  - category: categories
+  - tag: tags
+
+params:
+  mainSections: ["posts"]
