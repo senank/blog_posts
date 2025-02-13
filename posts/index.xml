@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Senan Kassem&#39;s Paper Review</title>
-    <link>https://senank.github.io/blog_posts/</link>
-    <description>Recent content on Senan Kassem&#39;s Paper Review</description>
+    <title>Posts on Senan Kassem&#39;s Paper Review</title>
+    <link>https://senank.github.io/blog_posts/posts/</link>
+    <description>Recent content in Posts on Senan Kassem&#39;s Paper Review</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Feb 2025 15:10:31 +0000</lastBuildDate>
-    <atom:link href="https://senank.github.io/blog_posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://senank.github.io/blog_posts/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BackMATH - Towards Backward Reasoning for Solving Math Problems Step by Step</title>
       <link>https://senank.github.io/blog_posts/posts/25-02-13-backmath-backward-reasoning/</link>
