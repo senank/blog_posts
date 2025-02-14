@@ -164,3 +164,4 @@ Areas for Further Exploration
 - Evaluating FP8 models on out-of-distribution data may also determine the effectiveness of the generalizability and capacities of these models in comparison to their higher-precision counterparts.
 4. Inference Considerations
 - Investigating if FP8 models allows for better model compression or quantization at inference as well.
+
