@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Senan Kassem&#39;s Paper Review</title>
+    <title>Senan Kassem&#39;s Paper Reviews</title>
     <link>https://senankassem.com/</link>
-    <description>Recent content on Senan Kassem&#39;s Paper Review</description>
+    <description>Recent content on Senan Kassem&#39;s Paper Reviews</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 15:10:31 +0000</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Wed, 12 Feb 2025 15:10:31 +0000</pubDate>
       <guid>https://senankassem.com/posts/25-02-12-backmath-backward-reasoning/</guid>
       <description>A review of the BackMATH paper, covering its impact on training models for reasoning, key insights, and future directions.</description>
+    </item>
+    <item>
+      <title>FP8-LM - Training FP8 Large Language Models</title>
+      <link>https://senankassem.com/posts/25-02-09-fp8-lm-training-fp8-large-language-models/</link>
+      <pubDate>Sun, 09 Feb 2025 21:08:00 +0000</pubDate>
+      <guid>https://senankassem.com/posts/25-02-09-fp8-lm-training-fp8-large-language-models/</guid>
+      <description>A review of the Transformers ability to reason and their relation to seperated knowledge paper</description>
     </item>
   </channel>
 </rss>
