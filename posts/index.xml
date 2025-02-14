@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Senan Kassem&#39;s Paper Review</title>
-    <link>https://senank.github.io/blog_posts/posts/</link>
+    <link>https://senankassem.com/posts/</link>
     <description>Recent content in Posts on Senan Kassem&#39;s Paper Review</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 15:10:31 +0000</lastBuildDate>
-    <atom:link href="https://senank.github.io/blog_posts/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://senankassem.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BackMATH - Towards Backward Reasoning for Solving Math Problems Step by Step</title>
-      <link>https://senank.github.io/blog_posts/posts/25-02-12-backmath-backward-reasoning/</link>
+      <link>https://senankassem.com/posts/25-02-12-backmath-backward-reasoning/</link>
       <pubDate>Wed, 12 Feb 2025 15:10:31 +0000</pubDate>
-      <guid>https://senank.github.io/blog_posts/posts/25-02-12-backmath-backward-reasoning/</guid>
+      <guid>https://senankassem.com/posts/25-02-12-backmath-backward-reasoning/</guid>
       <description>A review of the BackMATH paper, covering its impact on training models for reasoning, key insights, and future directions.</description>
     </item>
   </channel>
