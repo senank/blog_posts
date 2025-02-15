@@ -1,6 +1,6 @@
 baseURL: https://senankassem.com/
 languageCode: en-us
-title: Senan Kassem's Paper Reviews
+title: Senan Adonis Kassem
 theme: ["PaperMod"]
 
 taxonomies:
@@ -9,3 +9,50 @@ taxonomies:
 
 params:
   mainSections: ["posts"]
+
+  # homeInfoParams:
+  #   Title: Hi there wave
+  #   Content: Can be Info, links, about...
+  
+  profileMode:
+    enabled: true
+    title: "Senan Adonis Kassem"
+    subtitle: "Artifically Intelligent"
+
+    imageUrl: "https://avatars.githubusercontent.com/u/55685783?v=4" # optional
+    imageTitle: "Me" # optional
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
+    buttons:
+      - name: About me
+        url: "/aboutme"
+      - name: Article Reviews
+        url: "/posts"
+      
+    
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/senank"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/senan-adonis-kassem-9378b118a/"
+    - name: "email"
+      url: "mailto:senankassem@gmail.com"
+    - name: "discord"
+      url:  "https://discord.com/users/329721299385450496"
+    - name: "bitcoin"
+      url: "bitcoin:bc1qaq2zuzfusmgcnrkd5dwrmckj7hutuljtg3e0l03wjht7zm9quemqq088lx"
+
+  ShowReadingTime: true
+  ShowToc: true
+  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: about
+      name: about me
+      url: /about/
+      weight: 10
+    - identifier: posts
+      name: reviews
+      url: /posts/
+      weight: 20
