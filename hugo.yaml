@@ -8,7 +8,7 @@ taxonomies:
   - tag: tags
 
 params:
-  mainSections: ["posts"]
+  mainSections: ["Article Reviews"]
 
   # homeInfoParams:
   #   Title: Hi there wave
@@ -27,7 +27,7 @@ params:
       - name: About me
         url: "/about"
       - name: Article Reviews
-        url: "/posts"
+        url: "/article-reviews"
       
     
   socialIcons: # optional
@@ -58,5 +58,5 @@ menu:
       weight: 20
     - identifier: posts
       name: article reviews
-      url: /posts/
+      url: /article-reviews/
       weight: 30

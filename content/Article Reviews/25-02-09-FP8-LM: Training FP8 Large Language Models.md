@@ -159,9 +159,9 @@ Areas for Further Exploration
 1. Extending to Other Architectures
 - Future work should evaluate FP8 on different architectures beyond transformers (e.g., diffusion models, CNNs, MoE models).
 - Applying FP8 to vision or multimodal models could reveal new insights.
-3. Long-Context and Novel Training Analysis
+2. Long-Context and Novel Training Analysis
 - Evaluating FP8 models on long-context benchmarks (e.g., LongBench, Needle-in-a-Haystack) would help determine if FP8 impacts context retention.
 - Evaluating FP8 models on out-of-distribution data may also determine the effectiveness of the generalizability and capacities of these models in comparison to their higher-precision counterparts.
-4. Inference Considerations
+3. Inference Considerations
 - Investigating if FP8 models allows for better model compression or quantization at inference as well.
 
