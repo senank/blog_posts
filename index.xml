@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Senan Kassem&#39;s Paper Reviews</title>
+    <title>Senan Adonis Kassem</title>
     <link>https://senankassem.com/</link>
-    <description>Recent content on Senan Kassem&#39;s Paper Reviews</description>
+    <description>Recent content on Senan Adonis Kassem</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 15:10:31 +0000</lastBuildDate>
@@ -21,6 +21,14 @@
       <pubDate>Sun, 09 Feb 2025 21:08:00 +0000</pubDate>
       <guid>https://senankassem.com/posts/25-02-09-fp8-lm-training-fp8-large-language-models/</guid>
       <description>A review of the Transformers ability to reason and their relation to seperated knowledge paper</description>
+    </item>
+    <item>
+      <title>Who am I?</title>
+      <link>https://senankassem.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://senankassem.com/about/</guid>
+      <description>&lt;p&gt;I recently graduated from the University of Toronto with a B.Sc. in Cognitive Science and minors in Computer Science and Psychology.&lt;/p&gt;
+&lt;p&gt;Driven by my interest in technology and politics, I set out to explore cognition and how our tools — especially language — shape our understanding and ability to communicate ideas. My goal is to one day formulize and mechanize these ideas, and push the frontier of our understanding of reasoning and rationality.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
