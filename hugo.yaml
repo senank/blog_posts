@@ -25,7 +25,7 @@ params:
     imageHeight: 150 # custom size
     buttons:
       - name: About me
-        url: "/aboutme"
+        url: "/about"
       - name: Article Reviews
         url: "/posts"
       
@@ -48,11 +48,15 @@ params:
 
 menu:
   main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
     - identifier: about
       name: about me
       url: /about/
-      weight: 10
-    - identifier: posts
-      name: reviews
-      url: /posts/
       weight: 20
+    - identifier: posts
+      name: article reviews
+      url: /posts/
+      weight: 30
