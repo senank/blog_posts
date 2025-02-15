@@ -38,7 +38,7 @@ authors:
 github:
     - https://github.com/Azure/MS-AMP
 
-summary: "A review of the Transformers ability to reason and their relation to seperated knowledge paper"
+summary: "Floating-Point-8 mixed-precision training allows for dramatically lower computational costs and memory overheads while maintaining predictive performance. A *must* read!"
 doi: "https://arxiv.org/abs/2310.18313"
 pdf: "https://arxiv.org/pdf/2310.18313"
 ---
@@ -59,7 +59,7 @@ This paper theorizes that using a lower-precision number representation may lead
 
 ## Key Contributions & Insights
 
-This paper defines a novel approach FP8 mixed-precision training framework that incorporates 8-bit weights and gradients, 8-bit optimizers, and 8-bit distributed parallel training to allow for faster and more memory-efficient training while maintaining predictive accuracy of the models. This implementation does not require changes to hyper-parameters and training receipts. It addresses issues such as data underflow or overflow and quantization errors, which cause numerical instability and irreversible divergences throughout training, by using two techniques ***precision decoupling*** and ***automatic scaling***. By using FP8 instead of BF16, they have noted a 39% reduction in real memory usage and 75% faster training.
+This paper defines a novel FP8 mixed-precision training framework that incorporates 8-bit weights and gradients, 8-bit optimizers, and 8-bit distributed parallel training to allow for faster and more memory-efficient training while maintaining predictive accuracy of the models. This implementation does not require changes to hyper-parameters and training receipts. It addresses issues such as data underflow or overflow and quantization errors, which cause numerical instability and irreversible divergences throughout training, by using two techniques ***precision decoupling*** and ***automatic scaling***. By using FP8 instead of BF16, they have noted a 39% reduction in real memory usage and 75% faster training.
 
 
 ### **Automatic Scaling**
